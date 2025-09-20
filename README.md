@@ -31,7 +31,7 @@ A API deverá conter os seguintes endpoints:
      - Email: `admin@email.com`  
      - Senha: `Admin@123`  
    - Caso email/senha sejam inválidos, retornar mensagem de erro.  
-   - **Bônus**: Implementar autenticação via **JWT**.  
+   - **Bônus**: Implementar geração de token **JWT**.  
 
 2. **Criação de Usuário Administrador**  
    - Deve receber:  
@@ -58,7 +58,9 @@ A API deverá conter os seguintes endpoints:
    - O estabelecimento não deve ser excluído, apenas **desativado logicamente** (ex: `ativo = false`).  
 
 👉 Os dados podem ser armazenados **em memória** (listas/arrays).  
-👉 **Bônus**: Utilizar banco de dados (SQLite, PostgreSQL, MongoDB, etc).  
+👉 **Bônus**: 
+   - Utilizar banco de dados (SQLite, PostgreSQL, MongoDB, etc).
+   - Autenticação dos endpoints via token **JWT**.  
 
 ---
 
