@@ -1,4 +1,4 @@
-# 🚀 Desafio Estagiário - Sistema Fullstack  
+# 🚀 Desafio Estagiário - Fullstack  
 
 Bem-vindo ao desafio para a vaga de **estagiário em desenvolvimento**! 🎯  
 O objetivo é avaliar seus conhecimentos práticos em **desenvolvimento backend e frontend**, organização de código, boas práticas e criatividade na solução.  
